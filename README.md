@@ -1,4 +1,4 @@
-# Comandos Linux e Comandos Docker
+# Comandos Linux 
 
 ## Comandos Linux: Ubuntu
 
@@ -21,17 +21,5 @@
 > <img width="740" height="490" alt="image" src="https://github.com/user-attachments/assets/f32132a0-f5b4-4463-a8a8-863d658aeeb0" />
 
 > <img width="740" height="490" alt="image" src="https://github.com/user-attachments/assets/fcac4ecd-ef52-41e7-8273-515c77bb7f5b" />
-
-## Comandos Docker
-
-### Comando: docker system --> `df`
-> <img width="740" height="490" alt="image" src="https://github.com/user-attachments/assets/72942163-58a5-4b10-8bc9-30dde6e0e254" />
-
-
-### Comando: docker context --> `ls` 
-> <img width="740" height="490" alt="image" src="https://github.com/user-attachments/assets/49265212-3779-494b-a2af-c8c8ce3f197d" />
-
-### Comando: docker context --> `create`
-> <img width="740" height="490" alt="image" src="https://github.com/user-attachments/assets/581d6ca9-e37e-4fba-bff2-a460056c4f31" />b
 
 
