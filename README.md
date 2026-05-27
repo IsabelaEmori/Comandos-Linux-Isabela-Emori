@@ -24,5 +24,14 @@
 
 ## Comandos Docker
 
-### Comando: `a`
-> Exemplo incrível 
+### Comando: docker system --> `df`
+> <img width="740" height="490" alt="image" src="https://github.com/user-attachments/assets/72942163-58a5-4b10-8bc9-30dde6e0e254" />
+
+
+### Comando: docker context --> `ls` 
+> <img width="740" height="490" alt="image" src="https://github.com/user-attachments/assets/49265212-3779-494b-a2af-c8c8ce3f197d" />
+
+### Comando: docker context --> `create`
+> <img width="740" height="490" alt="image" src="https://github.com/user-attachments/assets/581d6ca9-e37e-4fba-bff2-a460056c4f31" />b
+
+
